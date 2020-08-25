@@ -1,2 +1,3 @@
 <?php>
-phpinfor();
+phpinfor（）
+111
